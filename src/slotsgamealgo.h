@@ -1,0 +1,8 @@
+//
+// Created by zhs007 on 2017/10/10.
+//
+
+#ifndef SLOTSALGO_SLOTSGAMEALGO_H
+#define SLOTSALGO_SLOTSGAMEALGO_H
+
+#endif //SLOTSALGO_SLOTSGAMEALGO_H
