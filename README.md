@@ -1,0 +1,2 @@
+# slotsalgo
+slots game algo
